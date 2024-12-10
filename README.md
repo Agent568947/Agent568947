@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agent568947
 - 👀 I’m interested in debugging
-- 🌱 I’m currently learning Python, HTML, CSS
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on some projects :D
 - 📫 How to reach me: by my email sima.mansfeld@seznam.cz 
 - 😄 Pronouns: really? I'm male...
