@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agent568947
-- 👀 I’m interested in debugging
+- 👀 I’m interested in debugging and coding 
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on some projects :D
 - 📫 How to reach me: by my email sima.mansfeld@seznam.cz 
